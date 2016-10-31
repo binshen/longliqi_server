@@ -1,0 +1,13 @@
+{
+  "name": "longliqi_server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "~2.1.21",
+    "moment": "~2.13.0",
+    "amqplib": "~0.4.2"
+  }
+}
